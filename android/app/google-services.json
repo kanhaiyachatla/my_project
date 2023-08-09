@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "365535867982",
+    "project_id": "digiatt-corp",
+    "storage_bucket": "digiatt-corp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365535867982:android:eadce113e30c6b9af33f1f",
+        "android_client_info": {
+          "package_name": "com.example.digiatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365535867982-id04034a3sfkg0lbluvcbrdsv46vuto8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFnmXbZCGTKarOKecfWiGUDM0C7Rfxa2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365535867982-id04034a3sfkg0lbluvcbrdsv46vuto8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365535867982-5ur9altbjgb3jnddhuca71i4fl0440c0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digiattNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365535867982:android:66cd4c77b361cf3bf33f1f",
+        "android_client_info": {
+          "package_name": "com.example.digiatt_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365535867982-id04034a3sfkg0lbluvcbrdsv46vuto8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFnmXbZCGTKarOKecfWiGUDM0C7Rfxa2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365535867982-id04034a3sfkg0lbluvcbrdsv46vuto8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "365535867982-5ur9altbjgb3jnddhuca71i4fl0440c0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digiattNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
